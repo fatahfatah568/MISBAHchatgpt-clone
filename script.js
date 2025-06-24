@@ -14,7 +14,7 @@ function sendToChatGPT() {
   };
 
   let headers = {
-    Authorization: "Bearer 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",
+    Authorization: "Bearer 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",
   };
 
   axios
